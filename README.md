@@ -13,7 +13,7 @@ Este proyecto será realizado  a lo largo del cuatrimestre junto con la asignatu
 
 **Organización de los miembros( gestión del trabajo):**
 
-Dividiremos el proyecto en tres módulos, estos tres módulos tendrán cada uno su correspondiente subdirectorio accesibles desde un directorio principal[organización](https://github.com/lorenmanu/PROYECTO-IV):
+Dividiremos el proyecto en tres módulos, estos tres módulos tendrán cada uno su correspondiente subdirectorio accesibles desde un directorio principal [organización](https://github.com/sn1k/PROYECTO-IV):
 
 **El módulo 1:**  [(Javier Ruiz César)](https://github.com/javiexfiliana7/submodulo-javi): Este módulo abarcará el desarrollo de las bases de datos que se usarán. Al tratarse de una aplicación de gestión de elementos, necesitaremos base de datos para la gestión de esos de esos elementos( identificación del elemento, tipo de elemento …), para los usuarios( identificación de los usuarios …), etc.
 
