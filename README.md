@@ -40,8 +40,6 @@ La plataforma albergará un foro donde poder opinar sobre las diferentes transac
 
 * Flask como framework para la aplicación.
 
-* HTML5 y CSS3 para la página web.
-
 * MySQL para la base de datos de usuarios y eventos.
 
 * Python para las funcionalidaes de la web y el servidor.
